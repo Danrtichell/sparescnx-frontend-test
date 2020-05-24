@@ -3,7 +3,7 @@ import React from 'react';
 const Part = ({
   name,
   id,
-  status,
+  status
 }: {
   name: string;
   id: number;
